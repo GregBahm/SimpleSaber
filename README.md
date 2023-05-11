@@ -1,2 +1,2 @@
 # SimpleSaber
-![](simpleSaber.gif)
+![](SimpleSaber.gif)
